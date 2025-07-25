@@ -1,1 +1,1 @@
-A README file
+Learning the MFC
