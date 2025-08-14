@@ -1,0 +1,4 @@
+﻿  bank class.cpp
+C:\Users\akshara\source\repos\bank class\bank class\bank class.cpp(83,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\akshara\source\repos\bank class\bank class\bank class.cpp(87,48): warning C4305: 'argument': truncation from 'double' to 'float'
+  bank class.vcxproj -> C:\Users\akshara\source\repos\bank class\Debug\bank class.exe

@@ -1,0 +1,3 @@
+﻿  abstract class.cpp
+C:\Users\akshara\source\repos\abstract class\abstract class\abstract class.cpp(32,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  abstract class.vcxproj -> C:\Users\akshara\source\repos\abstract class\Debug\abstract class.exe

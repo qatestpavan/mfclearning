@@ -1,0 +1,3 @@
+﻿  armstrong number.cpp
+C:\Users\akshara\source\repos\armstrong number\armstrong number\armstrong number.cpp(3,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  armstrong number.vcxproj -> C:\Users\akshara\source\repos\armstrong number\Debug\armstrong number.exe
